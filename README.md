@@ -9,4 +9,6 @@ git clone https://github.com/dnkosss1999/List-Table-Form.git
 Nguyen Van Duc Nhat
 # List-Table-Form
 [Index] (https://github.com/dnkosss1999/List-Table-Form/blob/master/table/index.html)
-[Style] (https://github.com/dnkosss1999/List-Table-Form/blob/master/table/style.css)
+[Main] (https://github.com/dnkosss1999/List-Table-Form/blob/master/table/style.css)
+[Reset] (https://github.com/dnkosss1999/List-Table-Form/blob/master/table/reset.css)
+[Editorconfig] (https://github.com/dnkosss1999/List-Table-Form/blob/master/table/.editorconfig)
